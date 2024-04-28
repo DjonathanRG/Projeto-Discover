@@ -116,7 +116,7 @@ ul li a {
   -webkit-backdrop-filter: blur(4px);
   font-weight: 500;
   text-decoration: none;
-  transition: background 0.2s;
+  transition: background 1s;
 }
 
 ul li a:hover {
@@ -136,7 +136,7 @@ ul li a:hover {
   align-items: center;
   padding: 16px;
   justify-content: center;
-  transition: background 0.2s;
+  transition: background 1s;
   border-radius: 50%;
 }
 
